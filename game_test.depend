@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1681752157 source:c:\users\dtnbc\desktop\game_test\main.cpp
+	"init_sdl.h"
+
+1682359498 c:\users\dtnbc\desktop\game_test\init_sdl.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	"env.h"
+	"src/list_view.h"
+
+1682359778 c:\users\dtnbc\desktop\game_test\env.h
+	<bits/stdc++.h>
+
+1681669219 c:\users\dtnbc\desktop\game_test\src\views\list_view.h
+	"../../view.h"
+	"../../view.cpp"
+
+1681872897 c:\users\dtnbc\desktop\game_test\view.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<bits/stdc++.h>
+	"env.h"
+
+1681669215 c:\users\dtnbc\desktop\game_test\src\views\list_view.cpp
+
+1681669210 c:\users\dtnbc\desktop\game_test\init_sdl.cpp
+	"init_sdl.h"
+
+1681669072 c:\users\dtnbc\desktop\game_test\view.cpp
+	"view.h"
+
+1682354149 c:\users\dtnbc\desktop\game_test\src\list_view.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	"views/music.h"
+	"views/view.h"
+	"views/background.h"
+	"views/levelbutton.h"
+	"views/cat.h"
+	"views/home.h"
+	"views/bot.h"
+	"controllers/map.h"
+
+1681748649 c:\users\dtnbc\desktop\game_test\src\list_view.cpp
+	"list_view.h"
+
+1682357207 c:\users\dtnbc\desktop\game_test\src\views\music.h
+	"view.h"
+
+1682359813 c:\users\dtnbc\desktop\game_test\src\views\view.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<bits/stdc++.h>
+	"../../env.h"
+
+1681921680 c:\users\dtnbc\desktop\game_test\src\views\background.h
+	"view.h"
+
+1681923927 c:\users\dtnbc\desktop\game_test\src\views\levelbutton.h
+	"view.h"
+
+1682359770 c:\users\dtnbc\desktop\game_test\src\views\cat.h
+	"view.h"
+	"../controllers/map.h"
+
+1682100504 c:\users\dtnbc\desktop\game_test\src\views\home.h
+	"view.h"
+
+1682357539 c:\users\dtnbc\desktop\game_test\src\controllers\map.h
+	"../models/random.h"
+
+1682093315 c:\users\dtnbc\desktop\game_test\src\models\random.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1682100476 c:\users\dtnbc\desktop\game_test\src\views\bot.h
+	"view.h"
+
