@@ -30,7 +30,7 @@ lazyfoo.net(render ảnh, cắt ảnh, âm thanh, event)
 Game đã tương đối hoàn chỉnh: có đồ hoạ, âm thanh, menu, bot.
 
  # Hướng cải tiến:
-- Thêm giới hạn về thời gian (em không làm điều này vì game có quá nhiều level,bản thân em để chơi qua level 3x3 cũng mất khá nhiều thời gian nên không biết set thời gian thế nào cho hợp lí
+- Thêm giới hạn về thời gian (em không làm điều này vì game có quá nhiều level,bản thân em để chơi qua level 3x3 cũng mất khá nhiều thời gian nên không biết set thời gian thế nào cho hợp lí)
 - Tính số lượt di chuyển, xếp hạng điểm cao
  # Điều tâm đắc: 
 - xây dựng được con bot tự chơi game
