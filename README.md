@@ -28,10 +28,11 @@ lazyfoo.net(render ảnh, cắt ảnh, âm thanh, event)
 
 ## Kết luận, hướng phát triển, các điều tâm đắc:
 Game đã tương đối hoàn chỉnh: có đồ hoạ, âm thanh, menu, bot.
-Hướng cải tiến:
+
+ # Hướng cải tiến:
 - Thêm giới hạn về thời gian (em không làm điều này vì game có quá nhiều level,bản thân em để chơi qua level 3x3 cũng mất khá nhiều thời gian nên không biết set thời gian thế nào cho hợp lí
 - Tính số lượt di chuyển, xếp hạng điểm cao
-Điều tâm đắc: 
--xây dựng được con bot tự chơi game
+ # Điều tâm đắc: 
+- xây dựng được con bot tự chơi game
 - áp dụng được lập trình hướng đối tượng, MVC;
--đồ họa game đẹp, em vẽ 100%
+- đồ họa game đẹp, em vẽ 100%
