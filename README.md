@@ -9,11 +9,11 @@
 - Sử dụng các phím mũi tên để di chuyển hình ảnh
 
 ## Mô tả các chức năng đã cài đặt:
--game có nhiều mức độ 3x3;4x4;5x5;...;10x10;
--game có âm thanh (có thể tùy chỉnh tắt đi bật lại)
-- game có menu có thể quay lại bất kì lúc nào
--ĐẶC BIỆT game có con BOT có thể tự chơi game
--sử dụng cả bàn phím và chuột
+ -game có nhiều mức độ 3x3;4x4;5x5;...;10x10;
+-game có âm thanh (có thể tùy chỉnh tắt đi bật lại);
+- game có menu có thể quay lại bất kì lúc nào;
+-ĐẶC BIỆT game có con BOT có thể tự chơi game;
+-sử dụng cả bàn phím và chuột;
 
 ## Các kĩ thuật lập trình được sử dụng:
 -logic game em tự nghĩ
