@@ -1,6 +1,6 @@
 # Game Sliding Puzzle 
 ## Hướng dẫn cài dặt:
-- clone git về máy và chạy file exe
+- clone git về máy và chạy file game_test.exe
 - trong trường hợp không chạy được thì cài codeblock và thư viện SDL2
 
 ## Mô tả chung về trò chơi:
